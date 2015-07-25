@@ -1,6 +1,10 @@
+.jumbotron {
+  background-color: #26CBE0;
+  height: 500px;
+}
+
 .jumbotron h1 {
-  color: rgb(230,205,105);
-  background-color: rgb(38,203,224);
+  color: #E6CD69;
   font-size: 48px;
   font-family: 'Shift', sans-serif;
   font-weight: bold;
